@@ -41,6 +41,7 @@ main {
 }
 
 .endind-box {
+    display: none;
     text-align: center;
 }
 
@@ -94,6 +95,10 @@ button {
     border-radius: 50px;
     font-size: 2rem;
     text-transform: uppercase;
+}
+
+.btn1 {
+    background-color: green;
 }
 
 .endind-box img {
